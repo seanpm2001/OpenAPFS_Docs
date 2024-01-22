@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️💾️🗃️[🇫.🇸]📖️ The official documentation source repository for the OpenAPFS (file system) component of WacOS, an alternative to Apples APFS (file system) Part of the WacOS operating system project
